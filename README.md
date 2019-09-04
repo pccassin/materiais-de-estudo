@@ -25,13 +25,13 @@ Divirta-se! 😉
 
 ### Arquivos ([Clique aqui](https://drive.google.com/open?id=1VD09MZv8v-vPvXy9VXEH7rYNOTXGt8qM))
 
-> 1 - Scrumpapers
-> 2 - Essential-Kanban-Condensed-English
-> 3 - Agile Master - Enfase em facilitacao
-> 4 - Agile Facilitator - Scrum_Agile Master
-> 5 - gettingvalueoutofagileretrospectives
-> 6 - Kanban-Mudanca-Evolucionaria
-> 7 - Kanban10Passos
+- 1 - Scrumpapers
+- 2 - Essential-Kanban-Condensed-English
+- 3 - Agile Master - Enfase em facilitacao
+- 4 - Agile Facilitator - Scrum_Agile Master
+- 5 - gettingvalueoutofagileretrospectives
+- 6 - Kanban-Mudanca-Evolucionaria
+- 7 - Kanban10Passos
 
 ### Livros 
 | **Nome** | **Link** |
@@ -51,10 +51,10 @@ Divirta-se! 😉
 | Antifrágil | [Amazon](https://www.amazon.com.br/Antifrágil-Nassim-Nicholas-Taleb-ebook/dp/B0141LGDXG/ref=pd_sbs_351_6/134-4196090-9111919?_encoding=UTF8&pd_rd_i=B0141LGDXG&pd_rd_r=f78fbfda-991e-4ef1-9991-8847342def44&pd_rd_w=SfUez&pd_rd_wg=C5hvM&pf_rd_p=80c6065d-57d3-41bf-b15e-ee01dd80424f&pf_rd_r=MQN2WTKSGKHXJMDREDKA&psc=1&refRID=MQN2WTKSGKHXJMDREDKA) |
 
 ### Extra
-> Scrum Book (http://scrumbook.org/) - Padrões de comportamentos, situações vistos em times ágeis traduzidos em "Patlets"
-> André Suman - Kanban (https://www.youtube.com/watch?v=v77XaUslOQ0) 
-> Podcast - Cabeça de Lab 
-> Podcast - ContÁgil
+- Scrum Book (http://scrumbook.org/) - Padrões de comportamentos, situações vistos em times ágeis traduzidos em "Patlets"
+- André Suman - Kanban (https://www.youtube.com/watch?v=v77XaUslOQ0) 
+- Podcast - Cabeça de Lab 
+- Podcast - ContÁgil
 
 
 ---
