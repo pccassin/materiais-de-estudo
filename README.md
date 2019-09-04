@@ -23,15 +23,15 @@ Divirta-se! 😉
 | 5 | Guia de um Agilista Analisando a Saúde do Processo | [Link](http://blog.plataformatec.com.br/2018/02/guia-de-um-agilista-analisando-a-saude-do-processo/) |
 | 6 | Métricas Ágeis | [Link](https://docs.google.com/presentation/d/1yBAMKex-FAsNKe4MxmdgqQSQwM4SZHrlrc-VpZNzWPY/edit?usp=sharing) |
 
-### Arquivos ([Google Drive]())
+### Arquivos ([Clique aqui](https://drive.google.com/open?id=1VD09MZv8v-vPvXy9VXEH7rYNOTXGt8qM))
 
-1 - Scrumpapers
-2 - Essential-Kanban-Condensed-English
-3 - Agile Master - Enfase em facilitacao
-4 - Agile Facilitator - Scrum_Agile Master
-5 - gettingvalueoutofagileretrospectives
-6 - Kanban-Mudanca-Evolucionaria
-7 - Kanban10Passos
+> 1 - Scrumpapers
+> 2 - Essential-Kanban-Condensed-English
+> 3 - Agile Master - Enfase em facilitacao
+> 4 - Agile Facilitator - Scrum_Agile Master
+> 5 - gettingvalueoutofagileretrospectives
+> 6 - Kanban-Mudanca-Evolucionaria
+> 7 - Kanban10Passos
 
 ### Livros 
 | **Nome** | **Link** |
@@ -55,5 +55,6 @@ Divirta-se! 😉
 > André Suman - Kanban (https://www.youtube.com/watch?v=v77XaUslOQ0) 
 > Podcast - Cabeça de Lab 
 > Podcast - ContÁgil
+
 
 ---
