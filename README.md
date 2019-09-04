@@ -27,11 +27,9 @@ Divirta-se! 😉
 
 - 1 - Scrumpapers
 - 2 - Essential-Kanban-Condensed-English
-- 3 - Agile Master - Enfase em facilitacao
-- 4 - Agile Facilitator - Scrum_Agile Master
-- 5 - gettingvalueoutofagileretrospectives
-- 6 - Kanban-Mudanca-Evolucionaria
-- 7 - Kanban10Passos
+- 3 - gettingvalueoutofagileretrospectives
+- 4 - Kanban-Mudanca-Evolucionaria
+- 5 - Kanban10Passos
 
 ### Livros 
 | **Nome** | **Link** |
